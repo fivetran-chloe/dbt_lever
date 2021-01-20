@@ -1,3 +1,16 @@
+-- one line per posting
+
+-- join posting_applications
+-- join posting_interviews
+
+-- count requisitions
+-- has_posting (boolean)
+
+-- enhance w/ interview metrics
+-- number of interviews 
+-- number of unique interviewees
+
+
 with posting_applications as (
 
     select *

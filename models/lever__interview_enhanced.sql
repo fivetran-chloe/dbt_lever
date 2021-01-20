@@ -1,3 +1,5 @@
+-- enrich with hiring manager info through the application table (posting_hiring_manager_user_id)
+
 -- note: each record is a unique interview-interviewer feedback form combo
 -- an interview can have multiple interviewers, and interviewers can have multiple feedback forms
 with interview as (
